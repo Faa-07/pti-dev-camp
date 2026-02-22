@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Nama: Muhammad Faris Arrachman
 NIM: 09031382530148
 Kelas: Sibil 2B
 Hobi: Otomotif
+=======
+Nama: 
+NIM: 
+Kelas: 
+>>>>>>> 097c094f2550ec2762eaf05afe1e09b6916e0f88
